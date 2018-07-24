@@ -6,9 +6,14 @@ org/springframework/web/bind/annotation/MatrixVariable
 org/springframework/web/bind/annotation/RequestPart
 org/springframework/ws/server/endpoint/annotation/RequestPayload
 org/springframework/ws/server/endpoint/annotation/XPathParam
+javax/ws/rs/CookieParam
 javax/ws/rs/PathParam
 javax/ws/rs/HeaderParam
 javax/ws/rs/MatrixParam
 javax/ws/rs/CookieParam
 javax/ws/rs/FormParam
 javax/ws/rs/QueryParam
+org/jboss/resteasy/annotations/LinkHeaderParam
+org/jboss/resteasy/annotations/Query
+org/jboss/resteasy/annotations/Body
+org/jboss/resteasy/annotations/Form
